@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Is love truly love?",
+    "date": "2024-6-7",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.",
+    "author": "John Doe",
+    "tags": "Abdullah"
+  },
+  {
+    "id": 2,
+    "title": "Why putting your best food forward is the only RIGHT way.",
+    "date": "2024-6-7",
+
+    "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+    "author": "Jane Smith"
+    
+  },
+  {
+    "id": 3,
+    "title": "A 9-5 is actually hard lol",
+    "date": "2024-6-7",
+
+    "content": "Donec vitae sapien consectetur, euismod nisl vel, fermentum quam. In bibendum eros id mi vehicula sollicitudin.",
+    "author": "James Brown"
+  },
+  {
+    "id": 4,
+    "date": "2024-6-7",
+
+    "title": "I want to get so rich that I don't have to let my family work again",
+    "content": "Etiam condimentum eros nec dolor dignissim, nec sagittis lorem laoreet. Integer id malesuada velit.",
+    "author": "Emily Davis"
+  },
+  {
+    "id": 5,
+    "date": "2024-6-7",
+
+    "title": "I still haven't gotten to terms that I've completed highschool.",
+    "content": "Sed vel lectus vitae est cursus aliquet. Quisque fermentum ex id quam eleifend, at euismod turpis semper.",
+    "author": "Michael Johnson"
+  },
+  {
+    "id": 6,
+    "date": "2024-6-7",
+
+    "title": "Starting any type of organization isn't easy, (you would think)",
+    "content": "Yeah, yeah, you'd think. Let me tell you starting any form of organization or planning an event is hard. Even with some experience planning a conventioni n my hometwon, that took alsmot 15 people to plan and even more to actually run the whole thing. What would make me think, only 1 person would be sufficient to actually start a whoel organization. I guess I'm just oblivious but since I already started why stop. It'll just take a whole team. Well, if you'd like to be a part of this tealth org iI'm talking about let me know !.",
+    "author": "Michael Johnson"
+  },
+  {
+    "id": 7,
+    
+    "title": "Is love truly love?",
+    "date": "2024-6-7",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.",
+    "author": "John Doe",
+    "tags": "Abdullah"
+  },
+  {
+    "id": 9,
+    "date": "2024-6-7",
+
+    "title": "A 9-5 is actually hard lol",
+
+    "content": "Donec vitae sapien consectetur, euismod nisl vel, fermentum quam. In bibendum eros id mi vehicula sollicitudin.",
+    "author": "James Brown"
+  },
+  {
+    "id": 10,
+    "date": "2024-6-7",
+
+    "title": "I want to get so rich that I don't have to let my family work again",
+    "content": "Etiam condimentum eros nec dolor dignissim, nec sagittis lorem laoreet. Integer id malesuada velit.",
+    "author": "Emily Davis"
+  },
+  {
+    "id": 11,
+    "date": "2024-6-7",
+
+    "title": "I still haven't gotten to terms I've completed highschool.",
+    "content": "Sed vel lectus vitae est cursus aliquet. Quisque fermentum ex id quam eleifend, at euismod turpis semper.",
+    "author": "Michael Johnson"
+  },
+  {
+    "id": 12,
+    "date": "2024-6-7",
+
+    "title": "Starting any type of organization isn't easy, (you would think)",
+    "content": "Yeah, yeah, you'd think. Let me tell you starting any form of organization or planning an event is hard. Even with some experience planning a conventioni n my hometwon, that took alsmot 15 people to plan and even more to actually run the whole thing. What would make me think, only 1 person would be sufficient to actually start a whoel organization. I guess I'm just oblivious but since I already started why stop. It'll just take a whole team. Well, if you'd like to be a part of this tealth org iI'm talking about let me know !.",
+    "author": "Michael Johnson"
+  }
+]
