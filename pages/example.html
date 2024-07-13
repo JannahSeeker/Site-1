@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scrollable Div with Flex-End</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-end;
+  height: 100vh; /* Full viewport height */
+  background-color: lightgray;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%; /* Full height of the container */
+  width: 100%; /* Adjust as needed */
+  background-color: white;
+  overflow-y: auto; /* Make the content scrollable */
+}
+
+.scrollable {
+  background-color: lightblue;
+  padding: 10px; /* Optional padding */
+  box-sizing: border-box; /* Include padding in element's total width and height */
+}
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="content">
+      <div class="scrollable">
+        <!-- Your content here -->
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+        <p>Item 1</p>
+        <p>Item 2</p>
+        <p>Item 3</p>
+        <p>Item 4</p>
+        <p>Item 5</p>
+        <p>Item 6</p>
+        <p>Item 7</p>
+        <p>Item 8</p>
+        <p>Item 9</p>
+        <p>Item 10</p>
+        <p>Item 11</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
