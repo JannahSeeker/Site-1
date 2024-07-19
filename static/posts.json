@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Why Islam is the true Religion",
+    "title": "Why this is a test version of the posts section",
     "date": "2024-6-7",
     "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis./Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis libero ac gravida venenatis.",
     "author": "John Doe",
@@ -19,6 +19,14 @@
   {
     "id": 3,
     "title": "A 9-5 is actually hard lol",
+    "date": "2024-6-7",
+
+    "content": "Donec vitae sapien consectetur, euismod nisl vel, fermentum quam. In bibendum eros id mi vehicula sollicitudin.",
+    "author": "James Brown"
+  },
+  {
+    "id": 3,
+    "title": "Is love truly love?",
     "date": "2024-6-7",
 
     "content": "Donec vitae sapien consectetur, euismod nisl vel, fermentum quam. In bibendum eros id mi vehicula sollicitudin.",
@@ -44,7 +52,7 @@
     "id": 6,
     "date": "2024-6-7",
 
-    "title": "I changed teh title cause the blog was beign very werid.",
+    "title": "I changed the title cause the blog was beign very werid.",
     "content": "Yeah, yeah, you'd think. Let me tell you starting any form of organization or planning an event is hard. Even with some experience planning a conventioni n my hometwon, that took alsmot 15 people to plan and even more to actually run the whole thing. What would make me think, only 1 person would be sufficient to actually start a whoel organization. I guess I'm just oblivious but since I already started why stop. It'll just take a whole team. Well, if you'd like to be a part of this tealth org iI'm talking about let me know !.",
     "author": "Michael Johnson"
   },
@@ -86,7 +94,7 @@
     "id": 12,
     "date": "2024-6-7",
 
-    "title": "Starting any type of organization",
+    "title": "Starting any type of organization is actually not easy..",
     "content": "Sed vel lectus vitae est cursus aliquet. Quisque fermentum ex id quam eleifend, at euismod turpis semper.",
 
     "author": "Michael Johnson"
