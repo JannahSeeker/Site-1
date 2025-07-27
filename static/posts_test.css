@@ -166,7 +166,23 @@ body {
 #subtitle {
     margin-top: 1vh;
 }
+.page_links {
+    /* Create a style to make the elements tack on each other vertically */
+    display: flex;
+    flex-direction: column;
+    /* add some space between them */
+    gap: 0.3em;
+    /* what does e?m mean? */
+}
 
+
+/*Now I want any link descendants to have an underline*/
+
+.page_links a {
+    text-decoration: underline;
+    color: var(--orange-crayola);
+    /* Make the links orange */
+}
 
 .description {
     font-size: 1.55em;
@@ -338,17 +354,6 @@ body {
         width: auto;
         line-height: normal;
         text-align: left;
-
-    }
-
-    .title_text {
-
-
-        margin: 1% 1% 1% 1%;
-        padding-right: 1%;
-        padding-left: 1%;
-        font-size: 2em;
-        width: auto;
 
     }
 
